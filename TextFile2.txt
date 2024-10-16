@@ -4,4 +4,8 @@ Add somethin in Anne
 Add Annie 22222 comment
 ANNIE_4444444
 ANNIE_______BBBBBBB
+<<<<<<< HEAD
 BEN_side_bbbbbbb
+=======
+ANNIE_1111111BBBBBB
+>>>>>>> 5e173ad0836ae35621d2e60b578ade5dcad5c008
